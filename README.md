@@ -1,5 +1,5 @@
 - 👋 Bonjour, Hi, I’m @jorigenepolymtl26
-- 👀 Professionnel en cybersécurité en transition vers les systèmes de contrôle industriel (SCADA). Passionné par l'intégration de la cybersécurité et des technologies IoT dans les infrastructures critiques."
+- 👀 Professionnel en cybersécurité en transition vers le domaine des systèmes de contrôle industriel (SCADA). Passionné par l'intégration de la cybersécurité et des technologies IoT dans les infrastructures critiques."
 - 🌱 Actuellement en apprentissage
 - 👀 Protocoles de communication industriels
 - 👀 Normes de sécurité spécifiques à l'industrie (IEC 62443, NIST SP 800-82)
